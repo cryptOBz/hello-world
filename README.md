@@ -1,2 +1,3 @@
 # hello-world
 learning GitHub from scratch
+learning how branches and commits work...
